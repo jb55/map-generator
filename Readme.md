@@ -3,6 +3,8 @@
 
   Transform yielded generator values by applying a function to each one.
 
+  Deprecated. Use [map-iterator](https://github.com/jb55/map-iterator) instead.
+
   [Other useful functions](https://github.com/jb55/generators)
 
   [![Build Status](https://travis-ci.org/jb55/map-generator.svg)](https://travis-ci.org/jb55/map-generator)
